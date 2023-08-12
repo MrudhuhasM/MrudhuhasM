@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @[my name]
+### 👋 Hi, I’m @Mrudhuhas
 
 I'm a dynamic and passionate individual interested in cutting-edge fields like **Deep Learning**, **Computer Vision**, **Machine Learning**, and **Natural Language Processing (NLP)**. My fascination with algorithms and computational models is complemented by my strong foundation in **Mathematics**.
 
