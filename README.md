@@ -9,7 +9,7 @@ I'm currently delving deeper into **Computer Vision**, exploring various algorit
 #### 💻 Technologies & Tools
 
 - **Deep Learning Frameworks:** TensorFlow, PyTorch, Keras
-- **Languages:** Python, C++,
+- **Languages:** Python
 - **Libraries:** OpenCV, scikit-learn, NLTK
 - **Tools:** Git, Docker, Jupyter Notebooks
 
