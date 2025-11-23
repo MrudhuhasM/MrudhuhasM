@@ -12,3 +12,5 @@ Machine Learning Engineer with 8+ years building production LLM systems.
 vLLM • LangGraph • PyTorch • FastAPI • Docker • Kubernetes • GCP
 
 [Blog](https://mrudhuhas.netlify.app) • [LinkedIn](https://linkedin.com/in/mrudhuhas) • [Email](mailto:mrudhuhas@gmail.com)
+
+Open to remote opportunities in LLM Infrastructure & AI Systems Engineering.
