@@ -1,21 +1,14 @@
-### 👋 Hi, I’m @Mrudhuhas
+# Hi, I'm Mrudhuhas 👋
 
-I'm passionate about **Deep Learning**, **Computer Vision**, **Machine Learning**, and **NLP**, with a strong foundation in **Mathematics**.
+Machine Learning Engineer with 8+ years building production LLM systems.
 
-#### 🌱 Current Focus
+**Current focus:** Inference optimization, agentic RAG pipelines, cost reduction
 
-I'm exploring **Computer Vision** algorithms and tools.
+## Recent Work
+- **[Production RAG System](https://github.com/MrudhuhasM/meditations-rag)** - 60-70% cost reduction, sub-500ms latency
+- [Live Demo](https://meditations-rag-180347172582.asia-south1.run.app)
 
-#### 💻 Technologies & Tools
+## Stack
+vLLM • LangGraph • PyTorch • FastAPI • Docker • Kubernetes • GCP
 
-- **Frameworks:** TensorFlow, PyTorch, Keras
-- **Languages:** Python
-- **Libraries:** OpenCV, scikit-learn, NLTK
-- **Tools:** Git, Docker, Jupyter Notebooks
-
-#### 🤝 Collaboration
-
-I'm looking to collaborate on **Deep Learning** and **Computer Vision** projects. Let's innovate together!
-
-
-Explore my repositories, fork, star, or open an issue. Happy coding! 🚀
+[Blog](https://mrudhuhas.netlify.app) • [LinkedIn](https://linkedin.com/in/mrudhuhas) • [Email](mailto:mrudhuhas@gmail.com)
