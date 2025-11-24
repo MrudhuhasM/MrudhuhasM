@@ -1,6 +1,6 @@
 # Hi, I'm Mrudhuhas 👋
 
-Machine Learning Engineer with 8+ years building ML systems from training to production.
+Machine Learning Engineer with 7+ years building ML systems from training to production.
 
 **Current focus:** Fine-tuning LLMs and deploying production RAG systems
 
